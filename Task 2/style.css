@@ -250,9 +250,9 @@ textarea {
 
 .social-container {
     position: fixed;
-    bottom: 60%;
+    bottom: 55%;
     right: 1%;
-    height: 70px;
+    height: 65px;
     display: flex;
     justify-content: center;
     align-items: center;
